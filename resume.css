@@ -25,6 +25,12 @@ body {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.bootstrap-statement {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
 .authenticity-statement {
   background-color: #f8f8f8;
 }

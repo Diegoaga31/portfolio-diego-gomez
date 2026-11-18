@@ -52,6 +52,12 @@ body {
   text-decoration: underline;
 }
 
+.bootstrap-statement {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
 .authenticity-statement {
   background-color: #f8f8f8;
 }
