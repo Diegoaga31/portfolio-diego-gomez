@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.bg-red {
+  background-color: #7a1f1f;
+}
+
+/* Learned about the vh unit on my own during the summer */
+.intro-section {
+  display: flex;
+  height: 60vh;
+  background-image: url("images/sample-gates.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.my-resume-text {
+  color: #e4002b;
+  font-weight: bold;
+}
+
+.diego-resume-text {
+  font-size: 45px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.authenticity-statement {
+  background-color: #f8f8f8;
+}
+
+.name-bottom-of-page {
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+}

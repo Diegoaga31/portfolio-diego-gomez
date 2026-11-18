@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.bg-red {
+  background-color: #7a1f1f;
+}
+
+.btn-maroon {
+  background-color: #7a1f1f;
+  color: white;
+}
+
+.btn-maroon:hover {
+  background-color: #5c1616;
+  color: white;
+}
+
+.intro-section {
+  display: flex;
+  height: 60vh;
+  background-image: url("images/sample-gates.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.welcome-text {
+  color: #e4002b;
+  font-weight: bold;
+}
+
+.about-me-section {
+  padding: 5vh;
+}
+
+.about-me-text {
+  margin-bottom: 4vh;
+}
+
+.social-media-text {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.social-media-link {
+  color:#d62020;
+  text-decoration: none;
+}
+
+.social-media-link:hover {
+  color:#fc8585;
+  text-decoration: underline;
+}
+
+.authenticity-statement {
+  background-color: #f8f8f8;
+}
+
+.name-bottom-of-page {
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+}
